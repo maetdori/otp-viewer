@@ -1,0 +1,13 @@
+# Swift 빌드 산출물
+.build/
+OTPBar.app/
+OTPBar.zip
+
+# 계정 데이터(시크릿 포함) — 커밋 금지
+*.json
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
